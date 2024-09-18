@@ -1,0 +1,2 @@
+@regression @weather
+Feature: Weather
